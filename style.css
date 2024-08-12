@@ -1,0 +1,18 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+.description {
+    line-height: 2;
+    background-color: pink;
+}
+
+.ingredients {
+    line-height: 1.5;
+    background-color: rgb(161, 226, 104);
+}
+
+.steps {
+    line-height: 2;
+    background-color: orange;
+}
